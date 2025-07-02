@@ -15,6 +15,17 @@ I enjoy building intelligent systems that solve real-world problems and writing 
 
 ## 🚀 Featured Projects
 
+### 🧬 Cervical Cancer Prediction with Histopathology Images *(Academic Research Project)*
+A deep learning pipeline to classify cervical cancer types from histopathology slides.
+
+- Automated preprocessing of 4000+ slides using OpenCV (filters, segmentation, denoising).
+- Trained and evaluated 5 TensorFlow models for 3-class classification: benign, pre-cancer, cancer.
+- Achieved strong accuracy with consistent performance across validation datasets.
+
+**Technologies:** Python, TensorFlow, OpenCV, C++, Bash
+
+---
+
 ### 🔍 [YouFraud – Real-Time Fraud Detection System](https://github.com/MetalInMyVeins/YouFraud)
 A machine learning system that detects fraudulent transactions in real-time.
 
@@ -37,18 +48,7 @@ A universal file encryption library built with a custom algorithm and C++ core.
 
 ---
 
-### 🧬 Cervical Cancer Prediction with Histopathology Images *(Academic Research Project)*
-A deep learning pipeline to classify cervical cancer types from histopathology slides.
-
-- Automated preprocessing of 4000+ slides using OpenCV (filters, segmentation, denoising).
-- Trained and evaluated 5 TensorFlow models for 3-class classification: benign, pre-cancer, cancer.
-- Achieved strong accuracy with consistent performance across validation datasets.
-
-**Technologies:** Python, TensorFlow, OpenCV, C++, Bash
-
----
-
-### 🎮 Woman Pong – Multiplayer 2D Pong Game
+### 🎮 [Woman Pong – Multiplayer 2D Pong Game](https://github.com/MetalInMyVeins/woman_pong)
 Unpredictable pong game where ball dynamics challenge reflexes.
 
 - Built with C++ and SDL2 from scratch.
